@@ -1,2 +1,2 @@
 # frontendLearningNote
-前端你学习笔记
+前端学习笔记
